@@ -1,2 +1,2 @@
 # portfolio
-Demo live at: https://pravinc-dev.github.io/portfolio/
+Demo live at: https://Riffsmith.github.io/portfolio/
